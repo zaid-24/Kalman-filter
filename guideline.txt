@@ -1,0 +1,2 @@
+run main python file to run all commands
+kalmann file first line contain initial starting point x and y co-ordinate, from second line onward it x,y,velocity in x direction ,velocity in y direction
